@@ -150,6 +150,7 @@ Make aside flex container
 aside {
   min-width: 20%;
   display: flex;
+  
 }
 ```
 
